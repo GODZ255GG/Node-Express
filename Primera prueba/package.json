@@ -1,0 +1,21 @@
+{
+  "name": "primera-prueba",
+  "version": "1.0.0",
+  "description": "Prueba para usar node",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start" : "nodemon index.js"
+  },
+  "keywords": [
+    "node"
+  ],
+  "author": "René Ulises",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}

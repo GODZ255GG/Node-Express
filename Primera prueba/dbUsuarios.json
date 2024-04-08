@@ -1,0 +1,16 @@
+{
+    "Usuarios": [
+        {
+            "id": 1,
+            "nombre": "René Ulises Garcia Velázquez",
+            "correo": "ReneUlises_Garcia@outlook.com",
+            "Telefono": 9231285172
+        },
+        {
+            "id": 2,
+            "nombre": "Catalina Velázquez Chaparro",
+            "correo": "Catalina@outlook.com",
+            "Telefono": 9211958282
+        }
+    ]
+}
